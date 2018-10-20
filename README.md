@@ -2,7 +2,6 @@
 
 # Now gem5-HDL has been included in a complete and latest project named [PAAS](https://github.com/zslwyuan/PAAS_V1.0). In that project, more interesting features of state-of-art CPU-FPGA system are implemented and detailed manual is provided.
 
-"""
 
 gem5-HDL make the simulation of CPU-FPGA system much easier because it realize the communication between C/C++ and Verilog in the heterogeneous system. This project is nearly finished, thanks to Prof. Wei ZHANG, Liang FENG and Sinha Sharad's help.
 If you have problem in using gem5-HDL, please feel free to send a email to tliang@ust.hk
