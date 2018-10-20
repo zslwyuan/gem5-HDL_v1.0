@@ -1,6 +1,6 @@
 # gem5-HDL_v1.0
 
-### Now gem5-HDL has been included in a complete and latest project named [PAAS](https://github.com/zslwyuan/PAAS_V1.0). In that project, more interesting features of state-of-art CPU-FPGA system are implemented and detailed manual is provided. The paper, PAAS: A system level simulator for heterogeneous computing architectures, about PAAS can be found at [this link in IEEEXplore](https://ieeexplore.ieee.org/document/8056775).
+### Now gem5-HDL has been included in a complete and latest project named [PAAS](https://github.com/zslwyuan/PAAS_V1.0). In that project, more interesting features of state-of-art CPU-FPGA system are implemented and detailed manual is provided. More details of the structure and implementation of PAAS can be found in the paper [PAAS: A system level simulator for heterogeneous computing architectures](https://ieeexplore.ieee.org/document/8056775).
 
 
 gem5-HDL make the simulation of CPU-FPGA system much easier because it realize the communication between C/C++ and Verilog in the heterogeneous system. This project is nearly finished, thanks to Prof. Wei ZHANG, Liang FENG and Sinha Sharad's help.
